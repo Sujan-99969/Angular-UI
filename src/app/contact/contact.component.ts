@@ -6,13 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./contact.component.css']
 })
 export class ContactComponent implements OnInit {
-  // confimmsg = document.getElementById("demo")
+
   constructor() { }
- 
-    // onclick(){
-    //   this.confimmsg.textContent="validating";
-    //     }
-  
+z
   ngOnInit() {
   }
 

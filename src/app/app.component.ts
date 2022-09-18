@@ -23,7 +23,7 @@ export class AppComponent  {
   selectedNavLink : INavLink;
   navLinks : Array<INavLink> = [
     { pathLink : '/recruitment', label : 'Employee Info', id: 1 },
-    // { pathLink : '/about', label : 'About', id: 2 }
+    { pathLink : '/recruitment', label : 'Employee', id: 2 }
   ];
 
   constructor(private router : Router){}
