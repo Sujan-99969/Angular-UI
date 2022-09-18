@@ -1,0 +1,12 @@
+.footer{
+display: flex;
+justify-content: center;
+height: 20vh;
+position:relative;
+bottom: -113px;
+
+}
+.footer-content{
+    position: absolute;
+    top: 30%;
+}
